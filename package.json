@@ -1,0 +1,24 @@
+{
+  "name": "travel-backend",
+  "version": "1.0.0",
+  "description": "Backend server for Travel Trip Tracker application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "json-server",
+    "express",
+    "backend"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
+

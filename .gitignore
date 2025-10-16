@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+
+# JSON Server snapshots (we don't need these)
+db-*.json
+
+# OS
+.DS_Store
+Thumbs.db
+
